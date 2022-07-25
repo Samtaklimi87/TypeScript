@@ -7,6 +7,10 @@
 ## json config
 ```
 tsc --init
+"rootDir": "./src", 
+"outDir": "./dist",
+"removeComments": true,
+"noEmitOnError": true,
 ```
 
 
